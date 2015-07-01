@@ -27,7 +27,7 @@ body {
  
     .tab-links li {
         margin:0px 5px;
-        float:left;
+        float:center;
         list-style:none;
     }
  
@@ -35,10 +35,10 @@ body {
             padding:9px 15px;
             display:inline-block;
             border-radius:3px 3px 0px 0px;
-            background:#7FB5DA;
+            background:#99CCFF;
             font-size:16px;
             font-weight:600;
-            color:#4c4c4c;
+            color:#6600CC;
             transition:all linear 0.15s;
         }
  
