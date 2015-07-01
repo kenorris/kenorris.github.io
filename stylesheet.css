@@ -26,8 +26,7 @@ div {
 
 .sections a {
 	color: black;
-	background-color: white;
-	border-bottom: 3px double;
+	border-bottom: 3px inset;
 }
 
 .sections a:hover {
