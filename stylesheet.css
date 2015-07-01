@@ -1,27 +1,35 @@
 h1 {
-	color:blue;
+	color:#CCB2FF;
 	font-size: 56px;
 	font-style: bold;
 	text-align: center;
-	font-family: verdana;
+	font-family: serif;
 }
 body {
-	background-color: #FFFFF0;
+	background-color: white;
 }
 div {
 	text-align: center;
 }
-.info {
+.subtitle {
 	margin-top: 10px;
-	font-family: verdana;
+	font-family: sans-serif;
 	font-size: 34px;
 	text-align: center;
 }
+.info {
+	margin: -20px;
+	font-family: sans-serif;
+	font-size: 26px;
+	font-weight: lighter;
+}
 .sections {
 	text-align: center;
-	font-family: Roboto Slab, serif;
+	font-family: serif;
 	display: block;
 	margin-bottom: 2%;
+	font-size: 30px;
+
 }
 
 .sections a {
