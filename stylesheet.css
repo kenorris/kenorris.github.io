@@ -8,6 +8,14 @@ h1 {
 body {
 	background-color: #FFFFF0;
 }
+div {
+	text-align: center;
+}
+.info {
+	margin-top: 10px;
+	font-family: verdana;
+	font-size: 34px;
+}
 .tabs {
 	color: purple;
 	border-top-right-radius: 15px;
