@@ -15,40 +15,24 @@ div {
 	margin-top: 10px;
 	font-family: verdana;
 	font-size: 34px;
-}
-.tabs {
-	color: purple;
-	border-top-right-radius: 15px;
-	border-top-left-radius: 15px;
-	display: inline-block;
-	width: 100%;
-	margin: 0px 5px;
-	float: left;
-	list-style: none;
 	text-align: center;
 }
+.sections {
+	text-align: center;
+	font-family: Roboto Slab, serif;
+	display: block;
+	margin-bottom: 2%;
+}
 
- 
-    .tab-links li {
-        margin:0px 5px;
-        float:left;
-        list-style:none;
-    }
- 
-        .tab-links a {
-            padding:9px 15px;
-            display:inline-block;
-            border-radius:3px 3px 0px 0px;
-            background:#99CCFF;
-            font-size:16px;
-            font-weight:600;
-            color:#6600CC;
-            transition:all linear 0.15s;
-        }
- 
-        .tab-links a:hover {
-            background:#a7cce5;
-            text-decoration:none;
-        }
+.sections a {
+	color: black;
+	background-color: white;
+	border-bottom: 3px double;
+}
+
+.sections a:hover {
+	color: #666666;
+
+}
  
    
