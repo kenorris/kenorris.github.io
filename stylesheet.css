@@ -26,12 +26,15 @@ div {
 
 .sections a {
 	color: black;
-	border-bottom: 3px inset;
+	border-bottom: 3px double;
 }
 
 .sections a:hover {
 	color: #666666;
 
+}
+a:link {
+	text-decoration: none;
 }
  
    
