@@ -12,9 +12,10 @@ div {
 	text-align: center;
 }
 .subtitle {
-	font-family: sans-serif;
+	font-family: Trebuchet MS;
 	font-size: 34px;
 	text-align: center;
+	margin-top: -20px;
 }
 .info {
 	margin: -20px;
@@ -30,7 +31,13 @@ div {
 	font-size: 15px;
 
 }
-
+.me {
+	font-size: 18px;
+	font-weight: lighter;
+}
+.me a {
+	color:#CCB2FF;
+}
 .sections a {
 	color: black;
 	border-bottom: 3px double;
