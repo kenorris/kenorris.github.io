@@ -29,8 +29,8 @@ div {
 	font-family: sans-serif;
 	font-size: 30px;
 	font-weight: lighter;
-	margin-left:100px;
-	margin-right: 20px;
+	margin-left:80px;
+	margin-right:80px;
 }
 .me a {
 	color:#CCB2FF;
@@ -47,5 +47,8 @@ div {
 a:link {
 	text-decoration: none;
 }
- 
+.social {
+	text-align: center;
+	
+}
    
