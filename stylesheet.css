@@ -8,6 +8,8 @@ h1 {
 body {
 	background-color: #FFFFF0;
 }
-#tabs {
+.tabs {
 	color: purple;
+	border-radius: 15 px;
+	background-color: white;
 }
