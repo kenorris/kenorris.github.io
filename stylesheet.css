@@ -3,6 +3,11 @@ h1 {
 	font-size: 56px;
 	font-style: bold;
 	text-align: center;
-	font-family: franklin-gothic;
-	
+	font-family: verdana;
+}
+body {
+	background-color: #FFFFF0;
+}
+#tabs {
+	color: purple;
 }
