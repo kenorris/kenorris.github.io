@@ -5,6 +5,7 @@ h1 {
 	text-align: center;
 	font-family:  Lobster, cursive;
 	margin-bottom: 0px;
+	margin-top: 10px;
 }
 body {
 	background-color: #F0F0F0;
@@ -53,7 +54,7 @@ td {
 	margin: 100px 100px 100px 100px;
 }
 table{
-	margin: auto;	
+	cellspacing:100px;
 }
 table a:link {
 	text-decoration: none;
