@@ -3,16 +3,17 @@ h1 {
 	font-size: 56px;
 	font-style: bold;
 	text-align: center;
-	font-family: Trebuchet MS;
+	font-family:  Lobster, cursive;
+	margin-bottom: -10px;
 }
 body {
-	background-color: white;
+	background-color: #E6E6E6;
 }
 div {
 	text-align: center;
 }
 .subtitle {
-	font-family: Trebuchet MS;
+	font-family: Raleway, sans-serif;
 	font-size: 34px;
 	text-align: center;
 	margin-top: -20px;
