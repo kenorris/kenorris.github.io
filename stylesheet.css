@@ -1,10 +1,10 @@
 h1 {
 	color:#CCB2FF;
-	font-size: 56px;
+	font-size: 90px;
 	font-style: bold;
 	text-align: center;
 	font-family:  Lobster, cursive;
-	margin-bottom: -10px;
+	margin-bottom: -5px;
 }
 body {
 	background-color: #E6E6E6;
@@ -14,7 +14,7 @@ div {
 }
 .subtitle {
 	font-family: Raleway, sans-serif;
-	font-size: 34px;
+	font-size: 25px;
 	text-align: center;
 	margin-top: -20px;
 }
@@ -28,10 +28,11 @@ div {
 }
 .me {
 	font-family: sans-serif;
-	font-size: 30px;
+	font-size: 18px;
 	font-weight: lighter;
 	margin-left:80px;
 	margin-right:80px;
+	text-align: right;
 }
 .me a {
 	color:#CCB2FF;
@@ -52,5 +53,10 @@ a:link {
 	text-align: center;
 	font-size: 25px;
 	font-family: sans-serif;
+}
+.boxtabs {
+	background-color:#CCB2FF;
+	font-family: Open Sans, sans-serif;
+	text-align: center;
 }
    
