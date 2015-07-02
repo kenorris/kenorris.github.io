@@ -7,7 +7,7 @@ h1 {
 	margin-bottom: 0px;
 }
 body {
-	background-color: #E6E6E6;
+	background-color: #F0F0F0;
 }
 div {
 	text-align: center;
@@ -18,14 +18,6 @@ div {
 	text-align: right;
 	margin-top: -20px;
 	margin-right: 150px;
-}
-.sections {
-	text-align: center;
-	font-family: serif;
-	display: block;
-	margin-bottom: 2%;
-	font-size: 15px;
-
 }
 .me {
 	font-family: Raleway, sans-serif;
@@ -38,12 +30,7 @@ div {
 .me a {
 	color:#CCB2FF;
 }
-.sections a {
-	color: black;
-	border-bottom: 3px double;
-}
-
-.sections a:hover {
+.boxtabs a:hover {
 	color: #666666;
 
 }
@@ -63,7 +50,7 @@ a:link {
 td {
 	width: 170px;
 	height: 170px;
-	margin: 10px 10px 10px 10px;
+	margin: 100px 100px 100px 100px;
 }
 table{
 	margin: auto;	
