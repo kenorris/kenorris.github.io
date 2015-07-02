@@ -67,6 +67,6 @@ table a:link {
 	background-color: #B8DBFF;
 }
 #photos:hover {
-	background-image: url(IMG_5785.jpg);
+	background-image: url(https://raw.githubusercontent.com/kenorris/kenorris.github.io/master/IMG_5785.JPG);
 	background-size: 250px 250px;
 }
