@@ -4,7 +4,7 @@ h1 {
 	font-style: bold;
 	text-align: center;
 	font-family:  Lobster, cursive;
-	margin-bottom: -5px;
+	margin-bottom: 0px;
 }
 body {
 	background-color: #E6E6E6;
@@ -15,7 +15,7 @@ div {
 .subtitle {
 	font-family: Raleway, sans-serif;
 	font-size: 25px;
-	text-align: center;
+	text-align: right;
 	margin-top: -20px;
 }
 .sections {
@@ -59,4 +59,7 @@ a:link {
 	font-family: Open Sans, sans-serif;
 	text-align: center;
 }
-   
+td {
+	width: 100px;
+	height: 100px
+}
