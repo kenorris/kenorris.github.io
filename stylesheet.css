@@ -124,3 +124,59 @@ table a:link {
 	height: 70px;
 }
 
+#content
+{
+   padding: 20px 10px;
+   overflow: auto;
+}
+#tab-container
+{
+   float: left;
+   margin: 50px 0 0 0;
+   width: 126px;
+}
+#tab-container ul
+{
+   list-style: none;
+   text-align: center;
+   font-family: Open Sans, sans-serif;
+   font-size: 14px;
+}
+#tab-container ul li
+{
+   border-bottom: 1px solid #CCB2FF;
+   margin: 8px 0;
+}
+#tab-container ul li a,
+#tab-container ul li a:visited
+{
+   text-decoration: none;
+   color: #666;
+   display: block;
+   padding: 15px 5px;
+}
+#tab-container ul li a:hover
+{
+   color: #000;
+   border-left: 2px solid #333;
+}
+#tab-container ul li.selected
+{
+   border-right: none;
+   background-color: #fff;
+   border-left: 8px solid #006699;
+}
+.main-container
+{
+   margin: 30px 50px 0px 200px;
+   padding: 20px;
+   font-family: Open Sans, sans-serif;
+   font-size: 12px;
+}
+.article {
+	font-size: 15px;
+	text-align: left;
+	margin-right: 10%;
+	margin-left: 10%;
+}
+
