@@ -67,11 +67,30 @@ table a:link {
 }
 #writing:hover {
 	background-image: url(http://demilked.uuuploads.com/free-paper-textures/free-paper-texture-18.jpg);
-	background-color: #B8DBFF;
 }
 #photos:hover {
 	background-image: url(https://raw.githubusercontent.com/kenorris/kenorris.github.io/master/IMG_5785.JPG);
 	background-size: 400px 400px;
+}
+#tv:hover {
+	background-image: url(10479494_959347074110501_2688506364806238003_n.jpg);
+	background-size: 400px 700px;
+	background-position: right top;
+}
+#blog:hover {
+	background-image: url(11136193_10204188520646425_7599718447462996212_o.jpg);
+	background-size: 303px 455px;
+	background-position: center;
+}
+#web:hover {
+	background-image: url(TimelineJS-featuredimg4.png);
+	background-size: 800px 404px;
+	background-position: center bottom;
+}
+#resume:hover {
+	background-image: url(Screen_Shot.png);
+	background-size: 350px 350px;
+	opacity: 30%;
 }
 .top {
 	background-color: black;
