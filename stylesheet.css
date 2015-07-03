@@ -26,8 +26,8 @@ div {
 	font-family: Raleway, sans-serif;
 	font-size: 18px;
 	font-weight: lighter;
-	margin-left:300px;
-	margin-right:300px;
+	margin-left:30%;
+	margin-right:30$;
 	text-align: right;
 	color: white;
 }
@@ -44,7 +44,7 @@ a:link {
 .social {
 	text-align: center;
 	font-size: 25px;
-	font-family: sans-serif;
+	font-family: Georgia, sans-serif;
 }
 .boxtabs {
 	background-color: #CCB2FF;
@@ -92,3 +92,4 @@ table a:link {
 	height: 50px;
 	width: 55px;
 }
+
