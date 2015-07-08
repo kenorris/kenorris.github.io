@@ -9,7 +9,7 @@
 .top img {
 	height: 180px;
 	width: 850px;
-	
+
 }
 body {
 	background-color: #F0F0F0;
@@ -183,5 +183,6 @@ table a:link {
 	text-align: left;
 	margin-right: 10%;
 	margin-left: 10%;
+	text-indent: 50px;
 }
 
