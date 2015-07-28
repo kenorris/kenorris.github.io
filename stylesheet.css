@@ -232,3 +232,8 @@ table a:link {
    color: #000;
    border-right: 1px solid red;
 }
+.top-timeline {
+	background-color: white;
+	width: 80%;
+	height: 50px;
+}
