@@ -29,7 +29,7 @@ function slideshowUp()
 num=num+1
 if (num==7)
 {num=1}
-document.photography.html.src=eval("img"+num+".src")
+document.mypic.src=eval("img"+num+".src")
 document.joe.burns.value=eval("text"+num)
 }
 
