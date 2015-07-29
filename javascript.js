@@ -29,8 +29,8 @@ function slideshowUp()
 num=num+1
 if (num==7)
 {num=1}
-document.mypic.src=eval("img"+num+".src")
-document.joe.burns.value=eval("text"+num)
+photography.mypic.src=eval("img"+num+".src")
+photography.joe.burns.value=eval("text"+num)
 }
 
 function slideshowBack()
@@ -38,8 +38,8 @@ function slideshowBack()
 num=num-1
 if (num==0)
 {num=4}
-document.mypic.src=eval("img"+num+".src")
-document.joe.burns.value=eval("text"+num)
+photography.mypic.src=eval("img"+num+".src")
+photography.joe.burns.value=eval("text"+num)
 }
 
 </SCRIPT>
