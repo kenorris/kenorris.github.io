@@ -8,6 +8,7 @@
   <link href='http://fonts.googleapis.com/css?family=Lobster|Open+Sans:400,300|Raleway:300' rel='stylesheet' type='text/css'>
    <meta http-equiv="X-UA-Compatible" content="IE=Edge"> <!-- For intranet testing only, remove in production. -->
   <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+
 </head>
 <body>
 	<div class="tabber">
@@ -17,16 +18,13 @@
    <div class="main-container">
       <h1>Page through to see some of my more recent photoshoots.</h1>
    </div>
-   <CENTER>
-<IMG SRC="Photos/S_S_Bienen/gloomy.JPG" NAME="mypic" BORDER="0" HEIGHT="400" WIDTH="250">
-	<p>
-
-<FORM NAME="joe">
-<INPUT TYPE="text" WIDTH="100" NAME="burns" VALUE="Text For Picture One">
-</FORM>
-<A HREF="JavaScript:slideshowBack()"> Back</A>
-
-<A HREF="JavaScript:slideshowUp()"> Next</A>
-<script src="javascript.js"></script>
+ <div id="slideShowImages">
+    <img src="Photos/S_S_Bienen/gloomy.jpg" alt="Slide 1" />
+    <img src="Photos/S_S_Bienen/hands.jpg" alt="Slide 2" />
+    <img src="Photos/S_S_Bienen/widepiano.jpg" alt="Slide 3" />    
+    <img src="Photos/S_S_Bienen/ben.jpg" alt="Slide 4" />
+  </div>  
+  <button id="slideShowButton"></button> <!-- Optional button element. -->
+  <script src="javascript.js"></script>
 </div>
 </body>
