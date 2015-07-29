@@ -4,16 +4,25 @@ var num=1
 img1 = new Image ()
 img1.src = "Photos/S_S_Bienen/gloomy.JPG"
 img2 = new Image ()
-img2.src = "interference.gif"
+img2.src = "Photos/S_S_Bienen/hands.JPG"
 img3 = new Image ()
-img3.src = "message.gif"
+img3.src = "Photos/S_S_Bienen/widepiano.JPG"
 img4 = new Image ()
-img4.src = "nervous.gif" 
+img4.src = "Photos/S_S_Bienen/ben.JPG" 
+img5 = new Image ()
+img5.src = "Photos/S_S_Bienen/beinen.JPG" 
+img6 = new Image ()
+img6.src = "Photos/S_S_Bienen/elevator.JPG" 
+img7 = new Image ()
+img7.src = "Photos/S_S_Bienen/casey.JPG" 
 
 text1 = "Text for Picture One"
 text2 = "Text for Picture Two"
 text3 = "Text for Picture Three"
 text4 = "Text for Picture Four"
+text5 = "Text for Picture Five"
+text6 = "Text for Picture Six"
+text7 = "Text for Picture Seven"
 
 function slideshowUp()
 {
