@@ -3,7 +3,7 @@
 var num=1
 img1 = new Image ()
 img1.src = "Photos/S_S_Bienen/gloomy.JPG"
-img2 = new Image ()
+img2 = new Image ("Photos/S_S_Bienen/hands.JPG")
 img2.src = "Photos/S_S_Bienen/hands.JPG"
 img3 = new Image ()
 img3.src = "Photos/S_S_Bienen/widepiano.JPG"
@@ -27,9 +27,9 @@ text7 = "Text for Picture Seven"
 function slideshowUp()
 {
 num=num+1
-if (num==5)
+if (num==7)
 {num=1}
-document.mypic.src=eval("img"+num+".src")
+document.photography.html.src=eval("img"+num+".src")
 document.joe.burns.value=eval("text"+num)
 }
 
