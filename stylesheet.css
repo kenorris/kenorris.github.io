@@ -199,7 +199,7 @@ table a:link {
 #blog-tab-container
 {
    float: left;
-   margin: 50px 0 0 0;
+   margin: 0px 0 0 0;
    width: 126px;
 }
 #blog-tab-container ul
@@ -231,3 +231,4 @@ table a:link {
 	width: 80%;
 	height: 50px;
 }
+
