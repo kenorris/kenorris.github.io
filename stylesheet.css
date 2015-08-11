@@ -70,7 +70,8 @@ table a:link {
 	color: black;
 }
 #writing:hover {
-	background-image: url(https://raw.githubusercontent.com/kenorris/kenorris.github.io/master/TabPhotos/writing.JPG);
+	background-image: url(kenorris.github.io/TabPhotos/writing.jpg);
+	background-size: 400px 400px;
 }
 #photos:hover {
 	background-image: url(https://raw.githubusercontent.com/kenorris/kenorris.github.io/master/TabPhotos/IMG_5785.JPG);
