@@ -88,8 +88,8 @@ table a:link {
 }
 #web:hover {
 	background-image: url(https://raw.githubusercontent.com/kenorris/kenorris.github.io/master/TabPhotos/design.png);
-	background-size: 800px 404px;
-	background-position: center;
+	background-size: 600px 304px;
+	background-position: left top;
 }
 #resume:hover {
 	background-image: url(https://raw.githubusercontent.com/kenorris/kenorris.github.io/master/TabPhotos/Screen_Shot.png);
