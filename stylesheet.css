@@ -193,7 +193,7 @@ table a:link {
 	background-size: 1450px 530px;
 }
 .blog-main-container {
-	font-family: Raleway;
+	font-family: Raleway, sans-serif;
 	color: #393937;
 	margin-right: 20%;
 	margin-left: 20%
