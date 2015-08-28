@@ -234,4 +234,35 @@ table a:link {
 	height: 50px;
 }
 
+.thumbnails img {
+		height: 80px;
+		border: 4px solid #555;
+		padding: 1px;
+		margin: 0 10px 10px 0;
+}
 
+.thumbnails img:hover {
+		border: 4px solid #00ccff;
+		cursor:pointer;
+}
+
+.preview img {
+		border: 4px solid #444;
+		padding: 1px;
+		width: 650px;
+}
+.main-container-photo
+{
+   margin: 30px 50px 0px 30px;
+   padding: 20px;
+   font-family: Raleway, sans-serif;
+   font-size: 12px;
+}
+.gallery {
+	font-family: Raleway, sans-serif;
+	margin: 30px 50px 0px 30px;
+   padding: 20px;
+   font-family: Raleway, sans-serif;
+   font-size: 12px;
+}
+	
