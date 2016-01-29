@@ -42,6 +42,10 @@ div {
 	color: #00FFFF;
 
 }
+.tabbox a:hover {
+	color: #0A35F7;
+
+}
 a:link {
 	text-decoration: none;
 }
@@ -57,11 +61,11 @@ a:link {
 	font-size: 25px;
 	background-image: none;
 }
-td {
+.boxtabs td {
 	width: 300px;
 	height: 300px;
 }
-table{
+.boxtabs table{
 	margin: auto;
 	border-spacing: 50px;
 }
@@ -177,7 +181,15 @@ table a:link {
    margin: 30px 50px 0px 200px;
    padding: 20px;
    font-family: Raleway, sans-serif;
+   font-size: 15px;
+}
+.container-two
+{
+   
+   font-family: Raleway, sans-serif;
    font-size: 12px;
+   margin: 30px 30px 30px 30px;
+   height: 340px;
 }
 .article {
 	font-size: 15px;
@@ -265,4 +277,32 @@ table a:link {
    font-family: Raleway, sans-serif;
    font-size: 12px;
 }
+.tabbox {
+	font-family: Open Sans, sans-serif;
+	text-align: center;
+	font-size: 25px;
+	background-image: none;
+}
+#spamalot {
+	background-image: url(https://i.ytimg.com/vi/342VBn63_QA/maxresdefault.jpg);
+	background-size: 430px 310px;
+	}
+
+.tabbox td {
+	width: 300px;
+	height: 300px;
+}
+.tabbox table{
+	margin: auto;
+}
+
+#bottom {
+	width: 300px;
+	height: 10px;
+	font-family: Open Sans, sans-serif;
+	text-align: center;
+	font-size: 25px;
+	background-image: none;
+}
+
 	
