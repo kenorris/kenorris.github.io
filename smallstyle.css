@@ -1,0 +1,56 @@
+#home h1 {
+	font-family: 'Lato', sans-serif;
+	font-weight: bold;
+	text-align: center;
+	font-size: 10px;
+	color: white;
+	margin: 0;
+}
+#home h2 {
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	text-align: center;
+	font-size: 30px;
+	color: white;
+	margin-top: 0px;
+	display: block;
+}
+#home {
+	background-color: black;
+	height: 50vh;
+	width: 100%;
+	display: block;
+}
+
+.words {
+	position: absolute;
+    top: 25%;
+    left: 10%;
+}
+
+h5 {
+	font-family: 'Arvo', serif;
+	font-weight: 400;
+	font-size: 12px;
+	text-align: right;
+	color: white;
+}
+#home h3 a {
+	color:#CCB2FF;
+}
+@media screen and (max-width: 478px)
+#home h1 {
+    font-size: 40px;
+}
+@media screen and (max-width: 638px)
+#home h1 {
+    font-size: 60px;
+}
+@media screen and (max-width: 825px)
+#home h1 {
+    font-size: 80px;
+}
+
+
+	
