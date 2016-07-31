@@ -393,9 +393,9 @@ a:visited{
   .container-two {
    display: block;
    padding-bottom: 10px;
-   padding-left: 20%;
+   padding-left: 15%;
    margin-left: 10px;
-   padding-right: 5px;
+   padding-right: 10%;
    text-align: left;
    width: 50%;
   }
