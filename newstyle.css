@@ -389,6 +389,20 @@ a:visited{
 
 
 /** media queries for gen layout **/
+@media screen and (max-width: 975px) {
+  .container-two {
+   display: block;
+   padding-bottom: 10px;
+   padding-left: 20%;
+   margin-left: 10px;
+   padding-right: 5px;
+   text-align: left;
+   width: 50%;
+  }
+  .container-two h4 {
+    display: none;
+  }
+}
 
 @media screen and (max-width: 850px) {
   #home h1 {
@@ -421,6 +435,9 @@ a:visited{
   #box3 h1, #box2 h1, #box1 h1{
     font-size: 18px
   }
+  .main-container h1 {
+    font-size: 20px;
+  }
 }
 
 @media screen and (max-width: 478px) {
@@ -438,6 +455,9 @@ a:visited{
   }
   #box3 h1, #box2 h1, #box1 h1{
     font-size: 13px
+  }
+  .main-container h1 {
+    font-size: 15px;
   }
 }
 @media screen and (max-width: 550px) {
