@@ -23,19 +23,19 @@ function showSlides() {
 		$('#videoreporting').hide ();
 		$('#writing').hide ();
 
-        $("#contact-info").hide();
-        $("#resume-info").hide();
+        $(".contact-info").hide();
+        $(".resume-info").hide();
      });
 
 	$('#resume').click(function () {
-        $('#resume-info').slideToggle(300);
-        $("#contact-info").hide();
+        $('.resume-info').slideToggle(300);
+        $(".contact-info").hide();
         $(".clips-info").hide();
      });
 
 	$('#contact').click(function () {
-        $('#contact-info').slideToggle(300);
-        $("#resume-info").hide();
+        $('.contact-info').slideToggle(300);
+        $(".resume-info").hide();
         $(".clips-info").hide();
 
      });
