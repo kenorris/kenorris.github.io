@@ -186,6 +186,8 @@ a:visited{
    color: white;
    text-align: center;
    font-weight: 300;
+   padding-left: 10%;
+   padding-right: 10%;
 }
 .container-two {
    position: relative;
