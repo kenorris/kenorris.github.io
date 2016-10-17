@@ -15,6 +15,12 @@ function showSlides() {
     setTimeout(showSlides, 2000); // Change image every 2 seconds
 }
 
+function preloadImage(src="HeadPhoto1.png")
+{
+    var img=new Image();
+    img.src=url;
+}
+
 	//main layout
 
 	$('#clips').click(function () {
