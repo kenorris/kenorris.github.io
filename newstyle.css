@@ -36,6 +36,9 @@ a:visited{
   text-decoration: none;
 }
 
+.container-two a{
+  color: #8158DB;
+}
 /** home **/
 #home {
   height: 50vh;
