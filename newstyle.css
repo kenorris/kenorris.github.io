@@ -238,6 +238,36 @@ a:visited{
   width: 100%;
   height: 30%;
 }
+
+#story1 {
+  float: right ;
+  width: 23% ;
+  margin-right: 4%;
+  margin-left:5%;
+  border-left-style: solid;
+  border-left-color: #C1AEEB;
+  border-left-width: 4px;
+  padding-left: 2%;
+}
+#story2 {
+  float: right;
+  width: 57%;
+  margin-left: 3%
+}
+
+.videoWrapper {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+}
+.videoWrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
 /** resume **/
 #resume:after {
   content: '';
@@ -408,6 +438,8 @@ a:visited{
   .container-two h4 {
     display: none;
   }
+
+
 }
 
 @media screen and (max-width: 850px) {
@@ -423,8 +455,13 @@ a:visited{
   .hello {
     font-size: 50px;
   }
-}
 
+}
+@media screen and (max-width: 875px) {
+  #video {
+    display: none;
+  }
+}
 @media screen and (max-width: 675px) {
   #home h1 {
     font-size: 60px;
