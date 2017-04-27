@@ -144,11 +144,12 @@ a:visited{
   margin-left: 10px;
   padding: 4px;
   color: white;
-  background-color: #D3C7ED;
+  background-color: #D3C7ED;} 
+  /**
   -webkit-transform: skew(-20deg);
   -ms-transform: skew(-20deg);
   transform: skew(-20deg);
-}
+}**/
 
 
 #box2 h1{
@@ -156,22 +157,22 @@ a:visited{
   margin-left: 10px;
   padding: 4px;
   color: white;
-  background-color: #D3C7ED;
+  background-color: #D3C7ED;} /**
   -webkit-transform: skew(-20deg);
   -ms-transform: skew(-20deg);
   transform: skew(-20deg);
-}
+} **/
 
 #box3 h1{
   font-size: 20px;
   margin-left: 10px;
   padding: 4px;
   color: white;
-  background-color: #D3C7ED;
+  background-color: #D3C7ED;} /**
   -webkit-transform: skew(-20deg);
   -ms-transform: skew(-20deg);
   transform: skew(-20deg);
-}
+}**/
 .clips-info {
   background: #C1AEEB;
   width: 100%;
