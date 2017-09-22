@@ -79,7 +79,7 @@ html, body {
 .banner {
 	width: 100%;
 	height: 600px;
-    background-image: url(photo.JPG);
+    background-image: url(PHOTO.JPG);
 	overflow: hidden;
 	background-size: 100%;
 }
