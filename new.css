@@ -79,7 +79,7 @@ html, body {
 .banner {
 	width: 100%;
 	height: 600px;
-    background-image: url(PHOTO.JPG);
+    background-image: url(https://raw.githubusercontent.com/kenorris/kenorris.github.io/master/PHOTO.jpg);
 	overflow: hidden;
 	background-size: 100%;
 }
