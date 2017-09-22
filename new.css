@@ -1,0 +1,191 @@
+html, body {
+	height: 2750px;
+	margin: 0px;
+   font-family: 'Lato', sans-serif;
+   font-size: .90em;
+
+}
+
+.navbar-fixed {
+    top: 0;
+    z-index: 100;
+    position: fixed;
+    width: 100%;
+}
+
+#story_div {
+	margin-top: 0px;
+	position: relative;
+    height: 300px;
+    background-color: #898989;
+}
+#story_div:after {
+	z-index: 1;
+	position: absolute;
+	top:100%;
+	border: solid transparent;
+        content: " ";
+        height: 0;
+        width: 0;
+	pointer-events: none;
+	border-color: rgba(136, 183, 213, 0);
+	border-top-color: #898989;
+	border-width: 20px;
+	margin-left: 50%
+}
+#work_div {
+	margin-top: 0px;
+	position: relative;
+    height: 650px;
+    background-color: white;
+}
+#work_div:after {
+	z-index: 1;
+	position: absolute;
+	top:100%;
+	border: solid transparent;
+        content: " ";
+        height: 0;
+        width: 0;
+	pointer-events: none;
+	border-color: rgba(136, 183, 213, 0);
+	border-top-color: white;
+	border-width: 20px;
+	margin-left: 50%
+}
+#resume_div {
+	margin-top: 0px;
+	position: relative;
+    background-color: #898989;
+
+}
+#headers {
+	color: #202020;
+	font-size: 40px;
+	padding-top: 25px;
+	text-align: center;
+}
+
+#headers hr{ 
+	margin-right: 35%;
+	margin-top: 5px;
+	width: 30%;
+	height: 1px;
+	background-color: black;
+	border: none;
+
+}
+
+.banner {
+	width: 100%;
+	height: 600px;
+    background-image: url(photo.JPG);
+	overflow: hidden;
+	background-size: 100%;
+}
+
+#nav_bar {
+	border: 0;
+	background-color: #202020;
+	border-radius: 0px;
+	margin-bottom: 0;
+    height: 80px;
+}
+
+.nav_links {
+    margin: 0;
+    padding-top: 30px;
+}
+
+.nav_links li {
+	display: inline;
+    margin-top: 4px;
+}
+.nav_links li a {
+	padding: 10px 15.5px;
+	margin-top: 10px;
+	color: white;
+	text-decoration: none;
+	font-weight: lighter;
+}
+.name_top {
+	text-align: right;
+	color: #CEC0EB;;
+	margin-right: 10%;
+	list-style: none;
+	margin-bottom: 15px;
+	margin-top: -25px;
+	font-size: 30px;
+}
+.name_top li {
+	display: inline;
+
+}
+.name_top a {
+	text-decoration: none;
+	color: #CEC0EB;
+}
+.statement {
+	margin-right: 40%;
+	margin-top: 25%;
+	font-size: 60px;
+	color: #CEC0EB;
+	text-shadow: 10px;
+	text-align: right;
+	text-shadow: 3px -3px 15px black;
+}
+#changeText {
+	font-size: 40px;
+	color: #CEC0EB;
+	text-shadow: 10px;
+	margin-top: -5px;
+	font-weight: lighter;
+	text-shadow: none;
+}
+#graphs {
+	color: #202020;
+	font-size: 17px;
+	margin: 70px;
+	margin-top: 10px;
+	text-align: center;
+	font-weight: lighter;
+}
+#graphs a {
+	color:#CEC0EB;
+	text-decoration: none;
+}
+hr {
+	width: 250px;
+	margin-top: 5px;
+	margin-right: 0px; 
+}
+#publications {
+    white-space: nowrap;
+}
+#publications img{
+    max-width: 200px;
+    max-height: 200px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#publications table{
+	max-width: 200px;
+}
+
+<div id='work_div'>
+    <div id="headers">My Work </div>
+    <div id="graphs"> I've worked and reported with...
+    <div id="publications">
+     <a href="http://www.pri.org/stories/2016-10-21/young-voters-weigh-whether-vote-or-not-after-final-presidential-debate"><img src="pri.png"/></a>
+     <img src="wmaq.png"/>
+     <img src="usnews.png"/>
+    </div>
+    <div id="publications">
+      <img src="wgn.png"/>
+      <img src="msnbc.png"/>
+      <img src="upi.png"/>
+    <div id="publications" style="margin-bottom: 30px;">
+      <img src="militarytimes.jpeg"/>
+      <img src="NNN.png"/>
+      <img src="medillnewsservice.png"/>
+</div>
