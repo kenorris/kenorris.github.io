@@ -17,7 +17,7 @@ html, body {
 	margin-top: 0px;
 	position: relative;
     height: 250px;
-    background-color: #898989;
+    background-color: #adabab;
 }
 #story_div:after {
 	z-index: 1;
@@ -29,14 +29,14 @@ html, body {
         width: 0;
 	pointer-events: none;
 	border-color: rgba(136, 183, 213, 0);
-	border-top-color: #898989;
+	border-top-color: #adabab;
 	border-width: 20px;
-	margin-left: 50%
+	margin-left: 48%
 }
 #work_div {
 	margin-top: 0px;
 	position: relative;
-    height: 650px;
+    height: 800px;
     background-color: white;
 }
 #work_div:after {
@@ -51,7 +51,7 @@ html, body {
 	border-color: rgba(136, 183, 213, 0);
 	border-top-color: white;
 	border-width: 20px;
-	margin-left: 50%
+	margin-left: 48%
 }
 #resume_div {
 	margin-top: 0px;
@@ -76,15 +76,16 @@ html, body {
 
 }
 #photo {
-	height:500px;
-	width: 500px;
+	height:400px;
+	width: 400px;
 	float:right;
 	margin-right: 50px;
 	margin-top: 50px;
+	margin-left: 40px;
 }
 .banner {
 	width: 100%;
-	height: 600px;
+	height: 500px;
     background-color: #202020; 
 	overflow: hidden;
 	background-size: 100%;
@@ -156,6 +157,17 @@ html, body {
 	font-weight: lighter;
 }
 #graphs a {
+	color:#CEC0EB;
+	text-decoration: none;
+}
+#nutgraph {
+	color: white;
+	font-size: 19px;
+	font-weight: lighter;
+	margin-top: 15px;
+	margin-right: 15px;
+}
+#nutgraph a {
 	color:#CEC0EB;
 	text-decoration: none;
 }
