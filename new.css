@@ -5,7 +5,17 @@ html, body {
    font-size: .90em;
 
 }
-
+#nutgraph {
+	color: white;
+	font-size: 19px;
+	font-weight: lighter;
+	margin-top: 15px;
+	margin-right: 15px;
+}
+#nutgraph a {
+	color:#CEC0EB;
+	text-decoration: none;
+}
 .navbar-fixed {
     top: 0;
     z-index: 100;
@@ -157,17 +167,6 @@ html, body {
 	font-weight: lighter;
 }
 #graphs a {
-	color:#CEC0EB;
-	text-decoration: none;
-}
-#nutgraph {
-	color: white;
-	font-size: 19px;
-	font-weight: lighter;
-	margin-top: 15px;
-	margin-right: 15px;
-}
-#nutgraph a {
 	color:#CEC0EB;
 	text-decoration: none;
 }
