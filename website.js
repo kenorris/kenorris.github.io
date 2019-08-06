@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
 
-  var text = ["journalist", "storyteller", "producer", "leader"];
+  var text = ["journalist", "storyteller", "producer", "leader", "traveler"];
   var counter = 0;
   var elem = document.getElementById("changeText");
   setInterval(change, 1500);
