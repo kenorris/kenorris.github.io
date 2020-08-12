@@ -8,9 +8,9 @@ html, body {
 #nutgraph {
 	color: white;
 	font-size: 19px;
-	font-weight: lighter;
 	margin-top: 15px;
 	margin-right: 15px;
+	font-weight: lighter;
 }
 #nutgraph a {
 	color:#CEC0EB;
@@ -147,9 +147,7 @@ html, body {
 	margin-top: 80px;
 	font-size: 60px;
 	color: #CEC0EB;
-	text-shadow: 10px;
 	text-align: left;
-	text-shadow: 3px -3px 15px #898989;
 }
 #changeText {
 	font-size: 40px;
@@ -164,7 +162,6 @@ html, body {
 	margin: 70px;
 	margin-top: 10px;
 	text-align: center;
-	font-weight: lighter;
 }
 #graphs a {
 	color:#CEC0EB;
